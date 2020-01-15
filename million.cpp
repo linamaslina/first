@@ -1,17 +1,3 @@
-/**
-*
-* Solution to homework assignment 3
-* Introduction to programming course
-* Faculty of Mathematics and Informatics of Sofia University
-* Winter semester 2019/2020
-*
-* @author Veselina Posliyska
-* @idnumber 62498
-* @task 1
-* @compiler VC
-*
-*/
-
 #include <iostream>
 #include <time.h>
 #include <random>
