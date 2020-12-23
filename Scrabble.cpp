@@ -1,9 +1,11 @@
+// this was my first uni project for Introduction to Programming with C++. it is a prototype for the game Scrabble.
+
 #include <iostream>
 #include <time.h>
-#include "Header.h"
 #include <stdio.h>
 #include <random>
 using namespace std;
+
 int points = 0;
 string dictionary[] = {
    "an",
