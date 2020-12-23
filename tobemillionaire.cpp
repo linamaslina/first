@@ -1,3 +1,6 @@
+/*
+this is a code based on the show "who wants to be a millionaire". It consists of ten questions randomly asked with four answers for each and there is a lifeline 50/50
+*/
 #include <iostream>
 #include <time.h>
 #include <random>
